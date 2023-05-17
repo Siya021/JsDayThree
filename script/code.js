@@ -1,11 +1,17 @@
-// let isApproved = true;
-// console.log(typeof isApproved)
+let isApproved = true;
+console.log(typeof isApproved)
 
-let name = "Siyamthanda"
+ let name = "Siyamthanda" //String
     lastName = "Mazokwana"
-    age = 24
-    hasGirlfriend = true
+    age = 24 //number
+    hasGirlfriend = true //booleans
 console.log(typeof hasGirlfriend)
 console.log(typeof lastName)
 console.log(typeof age)
-console.log(typeof hasGirlfriend) //done
+console.log(typeof hasGirlfriend)
+
+let siya;
+console.log(siya)
+
+let brain = null
+console.log(typeof (brain))
