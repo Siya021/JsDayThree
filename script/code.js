@@ -8,4 +8,4 @@ let name = "Siyamthanda"
 console.log(typeof hasGirlfriend)
 console.log(typeof lastName)
 console.log(typeof age)
-console.log(typeof hasGirlfriend)
+console.log(typeof hasGirlfriend) //done
